@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mask</folder>
+	<filename>openCV_ec043294-1d32-11ed-826e-acde48001122.jpg</filename>
+	<path>/Users/Adnan/Desktop/TFODCourse/Tensorflow/workspace/images/collectedimages/mask/openCV_ec043294-1d32-11ed-826e-acde48001122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>361</ymin>
+			<xmax>778</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>
